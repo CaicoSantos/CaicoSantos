@@ -1,8 +1,8 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do Caíco Santos 😁
 
  <div>
    <a href="https://github.com/CaicoSantos">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaicoSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaicoSantos&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaicoSantos&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
